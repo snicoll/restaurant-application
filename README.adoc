@@ -1,0 +1,4 @@
+= Spring One Platform
+
+This sample project was used on the main state at SpringOne Platform 2017. The recording
+of the session is https://content.pivotal.io/springone-platform-2017/st%C3%A9phane-nicoll-and-madhura-bhave[available here].
